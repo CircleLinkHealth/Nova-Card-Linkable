@@ -19,8 +19,8 @@
         "cards"
     ],
     "require": {
-        "php": "^8.0",
-        "laravel/nova": "^4.0"
+        "php": "^8.4",
+        "laravel/nova": "^5.0"
     },
     "require-dev": {
         "jubeki/laravel-code-style": "^1.0.0",
